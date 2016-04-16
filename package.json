@@ -1,0 +1,27 @@
+{
+  "name": "dates-range",
+  "version": "1.0.0",
+  "description": "The date iterator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "time",
+    "date",
+    "iteration"
+  ],
+  "author": "Quentin Engles <hollowdoor99@gmail.com>",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hollowdoor/dates_range.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hollowdoor/dates_range/issues"
+  },
+  "homepage": "https://github.com/hollowdoor/dates_range#readme"
+}
